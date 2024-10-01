@@ -1,0 +1,23 @@
+/**
+ * SALES ACTIONS
+ * These actions are for sales
+*/
+export const SET_SALE_ERROR = 'SET_SALE_ERROR'
+
+export const ADD_SALE_BEGIN = 'ADD_SALE_BEGIN';
+export const ADD_SALE_SUCCESS = 'ADD_SALE_SUCCESS';
+
+export const EDIT_SALE_BEGIN = 'EDIT_SALE_BEGIN';
+export const EDIT_SALE_SUCCESS = 'EDIT_SALE_SUCCESS';
+
+export const GET_SALE_BEGIN = 'GET_SALE_BEGIN';
+export const GET_SALE_SUCCESS = 'GET_SALE_SUCCESS';
+
+export const GET_SALES_BEGIN = 'GET_SALES_BEGIN';
+export const GET_SALES_SUCCESS = 'GET_SALES_SUCCESS';
+
+export const GET_MORE_SALES_BEGIN = 'GET_MORE_SALES_BEGIN';
+export const GET_MORE_SALES_SUCCESS = 'GET_MORE_SALES_SUCCESS';
+
+export const DELETE_SALE_BEGIN = 'DELETE_SALE_BEGIN';
+export const DELETE_SALE_SUCCESS = 'DELETE_SALE_SUCCESS';

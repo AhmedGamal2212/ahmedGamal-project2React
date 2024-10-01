@@ -1,0 +1,23 @@
+/**
+ * LOANS ACTIONS
+ * These actions are for loans
+*/
+export const SET_LOAN_ERROR = 'SET_LOAN_ERROR'
+
+export const ADD_LOAN_BEGIN = 'ADD_LOAN_BEGIN';
+export const ADD_LOAN_SUCCESS = 'ADD_LOAN_SUCCESS';
+
+export const EDIT_LOAN_BEGIN = 'EDIT_LOAN_BEGIN';
+export const EDIT_LOAN_SUCCESS = 'EDIT_LOAN_SUCCESS';
+
+export const GET_LOAN_BEGIN = 'GET_LOAN_BEGIN';
+export const GET_LOAN_SUCCESS = 'GET_LOAN_SUCCESS';
+
+export const GET_LOANS_BEGIN = 'GET_LOANS_BEGIN';
+export const GET_LOANS_SUCCESS = 'GET_LOANS_SUCCESS';
+
+export const GET_MORE_LOANS_BEGIN = 'GET_MORE_LOANS_BEGIN';
+export const GET_MORE_LOANS_SUCCESS = 'GET_MORE_LOANS_SUCCESS';
+
+export const DELETE_LOAN_BEGIN = 'DELETE_LOAN_BEGIN';
+export const DELETE_LOAN_SUCCESS = 'DELETE_LOAN_SUCCESS';
